@@ -1,0 +1,9 @@
+E:\DS\SetDemo\SetData\bin\Debug\netcoreapp3.1\SetData.deps.json
+E:\DS\SetDemo\SetData\bin\Debug\netcoreapp3.1\SetData.dll
+E:\DS\SetDemo\SetData\bin\Debug\netcoreapp3.1\SetData.pdb
+E:\DS\SetDemo\SetData\obj\Debug\netcoreapp3.1\SetData.csprojAssemblyReference.cache
+E:\DS\SetDemo\SetData\obj\Debug\netcoreapp3.1\SetData.AssemblyInfoInputs.cache
+E:\DS\SetDemo\SetData\obj\Debug\netcoreapp3.1\SetData.AssemblyInfo.cs
+E:\DS\SetDemo\SetData\obj\Debug\netcoreapp3.1\SetData.csproj.CoreCompileInputs.cache
+E:\DS\SetDemo\SetData\obj\Debug\netcoreapp3.1\SetData.dll
+E:\DS\SetDemo\SetData\obj\Debug\netcoreapp3.1\SetData.pdb

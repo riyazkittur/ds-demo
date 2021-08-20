@@ -1,0 +1,4 @@
+E:\DS\SetDemo\SetDemo\obj\Debug\netcoreapp3.1\SetDemo.csprojAssemblyReference.cache
+E:\DS\SetDemo\SetDemo\obj\Debug\netcoreapp3.1\SetDemo.AssemblyInfoInputs.cache
+E:\DS\SetDemo\SetDemo\obj\Debug\netcoreapp3.1\SetDemo.AssemblyInfo.cs
+E:\DS\SetDemo\SetDemo\obj\Debug\netcoreapp3.1\SetDemo.csproj.CoreCompileInputs.cache
